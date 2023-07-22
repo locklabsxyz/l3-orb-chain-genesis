@@ -1,0 +1,19 @@
+{
+  "chainOwner": "0xF073345B2099FaC12bEa9147e0E00F64E4c075Da",
+  "rollup": "0x0E5Fe5154458687c5B865cE16212ab8E61Bc9E70",
+  "inbox": "0xb056bA25Ce6732bCB1d6Da68469C13094C0d9a7D",
+  "outbox": "0xB091bB5FD56e9C0CE170fA7b0136B119de113d15",
+  "adminProxy": "0x6cfbFc998DCE303f95782DeDfd3A6d2c1f081afB",
+  "sequencerInbox": "0x0B91fD6F31c2EC2009038d30D555c5B3725389E2",
+  "bridge": "0x829ab6Ec2e44e7168fe69427Eb7cE3B45D6B3fFF",
+  "utils": "0x54F8e1d51e4B97d046aE6651fe260ADe4139D553",
+  "validatorWalletCreator": "0x5D8a0a8ee09185d0898f03a057dde4BB3EaDA601",
+  "deployedAtBlockNumber": 31361566,
+  "minL2BaseFee": 100000000,
+  "networkFeeReceiver": "0xF073345B2099FaC12bEa9147e0E00F64E4c075Da",
+  "infrastructureFeeCollector": "0xF073345B2099FaC12bEa9147e0E00F64E4c075Da",
+  "batchPoster": "0x296d9E1349c685Fa3f5A3B110646FEa133EBE71C",
+  "staker": "0x7d179200f80c6F42627328f01476638dF3C6926A",
+  "chainName": "RaaS  L3 Chain",
+  "chainId": 78078
+}
