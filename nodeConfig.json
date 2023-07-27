@@ -38,14 +38,14 @@
       "max-size": 90000,
       "enable": true,
       "parent-chain-wallet": {
-        "private-key": "d307eec4b666d1d7667dc84424c79f9fc2c291d05aa51ef3ec19a45a4267c03c"
+        "private-key": "your-private-key"
       }
     },
     "staker": {
       "enable": true,
       "strategy": "MakeNodes",
       "parent-chain-wallet": {
-        "private-key": "65644faca8344121be4264342640c1345862789c20583547435d6ab06b955de3"
+        "private-key": "your-private-key"
       }
     },
     "caching": {
