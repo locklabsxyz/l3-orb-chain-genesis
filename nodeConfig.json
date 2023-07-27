@@ -1,7 +1,7 @@
 {
   "chain": {
-    "info-json": "[{\"chain-id\":78078,\"parent-chain-id\":421613,\"chain-name\":\"RaaS  L3 Chain\",\"chain-config\":{\"chainId\":78078,\"homesteadBlock\":0,\"daoForkBlock\":null,\"daoForkSupport\":true,\"eip150Block\":0,\"eip150Hash\":\"0x0000000000000000000000000000000000000000000000000000000000000000\",\"eip155Block\":0,\"eip158Block\":0,\"byzantiumBlock\":0,\"constantinopleBlock\":0,\"petersburgBlock\":0,\"istanbulBlock\":0,\"muirGlacierBlock\":0,\"berlinBlock\":0,\"londonBlock\":0,\"clique\":{\"period\":0,\"epoch\":0},\"arbitrum\":{\"EnableArbOS\":true,\"AllowDebugPrecompiles\":false,\"DataAvailabilityCommittee\":false,\"InitialArbOSVersion\":10,\"InitialChainOwner\":\"0xF073345B2099FaC12bEa9147e0E00F64E4c075Da\",\"GenesisBlockNum\":0}},\"rollup\":{\"bridge\":\"0x829ab6Ec2e44e7168fe69427Eb7cE3B45D6B3fFF\",\"inbox\":\"0xb056bA25Ce6732bCB1d6Da68469C13094C0d9a7D\",\"sequencer-inbox\":\"0x0B91fD6F31c2EC2009038d30D555c5B3725389E2\",\"rollup\":\"0x0E5Fe5154458687c5B865cE16212ab8E61Bc9E70\",\"validator-utils\":\"0x54F8e1d51e4B97d046aE6651fe260ADe4139D553\",\"validator-wallet-creator\":\"0x5D8a0a8ee09185d0898f03a057dde4BB3EaDA601\",\"deployed-at\":31361566}}]",
-    "name": "RaaS  L3 Chain"
+    "info-json": "[{\"chain-id\":871978,\"parent-chain-id\":421613,\"chain-name\":\"L3Nitro Orbit Chain\",\"chain-config\":{\"chainId\":871978,\"homesteadBlock\":0,\"daoForkBlock\":null,\"daoForkSupport\":true,\"eip150Block\":0,\"eip150Hash\":\"0x0000000000000000000000000000000000000000000000000000000000000000\",\"eip155Block\":0,\"eip158Block\":0,\"byzantiumBlock\":0,\"constantinopleBlock\":0,\"petersburgBlock\":0,\"istanbulBlock\":0,\"muirGlacierBlock\":0,\"berlinBlock\":0,\"londonBlock\":0,\"clique\":{\"period\":0,\"epoch\":0},\"arbitrum\":{\"EnableArbOS\":true,\"AllowDebugPrecompiles\":false,\"DataAvailabilityCommittee\":false,\"InitialArbOSVersion\":10,\"InitialChainOwner\":\"0x4f572Ad5E18BCd935f32c75DAd559B8e7dBf4a10\",\"GenesisBlockNum\":0}},\"rollup\":{\"bridge\":\"0x97369b0944A5c3634cCa74d4918fa9262e1ffe27\",\"inbox\":\"0x3Bd808ceb63Daefd4db03Eb48acfF753A80bED48\",\"sequencer-inbox\":\"0xbBe6C4Fb4f663b95f315357b8Deb80bb2162e4A6\",\"rollup\":\"0x8fdC89eD045eaBbb1832Bc30be41b59DeC6A2AfD\",\"validator-utils\":\"0x7E63CA513144B98CD5bc0D78cA3CeB069734FF32\",\"validator-wallet-creator\":\"0x6e70f0696ACeFA02eF5b7Ef7D3eE0637d2dfE623\",\"deployed-at\":31872925}}]",
+    "name": "L3Nitro Orbit Chain"
   },
   "parent-chain": {
     "connection": {
@@ -38,14 +38,14 @@
       "max-size": 90000,
       "enable": true,
       "parent-chain-wallet": {
-        "private-key": "b8382976edbf276da133a493eebadf9509a1a3313cf81faf8f3b1b1a1ef5f56c"
+        "private-key": "d307eec4b666d1d7667dc84424c79f9fc2c291d05aa51ef3ec19a45a4267c03c"
       }
     },
     "staker": {
       "enable": true,
       "strategy": "MakeNodes",
       "parent-chain-wallet": {
-        "private-key": "23cb2d382a3e2717f999dda08b43d1269f6ee726b6a11dcce834618ec894a6d8"
+        "private-key": "65644faca8344121be4264342640c1345862789c20583547435d6ab06b955de3"
       }
     },
     "caching": {
